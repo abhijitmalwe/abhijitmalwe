@@ -48,13 +48,6 @@ Secure telemedicine app featuring appointment scheduling, teleconsultation (Twil
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhijitmalwe&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhijitmalwe&layout=compact&theme=radical)
-
----
-
 ## 📫 Connect with Me
 
 - 📧 abhijitmalwe@smartdatainc.net *(replace with actual email)*
