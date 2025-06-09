@@ -53,7 +53,4 @@ Secure telemedicine app featuring appointment scheduling, teleconsultation (Twil
 - 📧 abhijitmalwe@smartdatainc.net 
 - 🌍 Location: India | Timezone: IST (+5:30)
 
----
-
-### 💬 “Code is like humor. When you have to explain it, it’s bad.” – Cory House
 
