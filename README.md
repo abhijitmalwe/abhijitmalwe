@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Abhijit Malwe
+# Abhijit Malwe
 
 🎯 **Project Lead | Full Stack Developer | Cloud Architect**
 
