@@ -57,5 +57,3 @@ Secure telemedicine app featuring appointment scheduling, teleconsultation (Twil
 
 ### 💬 “Code is like humor. When you have to explain it, it’s bad.” – Cory House
 
-Thanks for visiting! Feel free to explore my repositories or connect with me for collaboration. 🚀
-
