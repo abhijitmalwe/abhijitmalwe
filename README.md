@@ -50,7 +50,7 @@ Secure telemedicine app featuring appointment scheduling, teleconsultation (Twil
 
 ## 📫 Connect with Me
 
-- 📧 abhijitmalwe@smartdatainc.net *(replace with actual email)*
+- 📧 abhijitmalwe@smartdatainc.net 
 - 🌍 Location: India | Timezone: IST (+5:30)
 
 ---
